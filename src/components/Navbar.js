@@ -40,13 +40,13 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/">
-          <div>
+          {/* <div>
             <img
               src="https://i.pinimg.com/736x/c0/b2/ab/c0b2ab01793f5a84ee25e7e1bbf41cd0.jpg"
               alt=""
               style={{ height: "40px", borderRadius: "10px" }}
             />
-          </div>
+          </div> */}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
