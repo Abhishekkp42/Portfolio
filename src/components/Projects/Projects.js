@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import mail from "../../Assets/Projects/img23.jpg";
+import mail from "../../Assets/Projects/image2.jpg";
 import editor from "../../Assets/Projects/Bluemercurry.PNG";
-import kettoimg from "../../Assets/Projects/img22.gif";
+import kettoimg from "../../Assets/Projects/image1.jpg";
 import Aos from "aos";
 import "aos/dist/aos.css";
 function Projects() {
@@ -28,14 +28,14 @@ function Projects() {
             <ProjectCard
               imgPath={kettoimg}
               isBlog={false}
-              title="Ajio Clone "
-              description="We have created a clone of e-commerce website Ajio. And we have implemented all the functionality and features similar to real website."
-              link="https://github.com/shubhamkr0412/AJIO"
-              tech=" HTML, CSS, JavaScript,Express, MongoDB, Mongoose"
+              title="Plumgoodness Clone "
+              description="We have created a clone of e-commerce website Plumgoodness. And we have implemented all the functionality and features similar to real website."
+              link="https://github.com/Abhishekkp42/E-commerce-Plumgoodness"
+              tech=" HTML, CSS, JavaScript"
               duration=" 1 Week"
               Features="Sign-In/Sign-Up, Details of Products, SearchBar for Navigation"
               // linkmedium="https://avinashrexx.hashnode.dev/cloning-of-agoda-website"
-              linklive="https://shubhamkr0412.github.io/AJIO-CLONE-1/"
+              linklive="https://plumgoodness-clone-rohit-2021.netlify.app/"
             />
           </Col>
 
@@ -43,13 +43,13 @@ function Projects() {
             <ProjectCard
               imgPath={mail}
               isBlog={false}
-              title="Uniqlo Clone"
+              title="Tatacliq Clone"
               duration=" 1 Week"
-              description="Cloned uniqlo is an American marketing e-commercial website, used by people to buy different kinds of clothing products.  "
+              description="Cloned tatacliq is an Indian marketing e-commercial website, used by people to buy different kinds of clothing products.  "
               tech=" HTML, CSS, JavaScript"
-              link="https://github.com/shubhamkr0412/Uniqolo"
+              link="https://github.com/Abhishekkp42/tatacliq"
               linkmedium=""
-              linklive="https://shubhamkr0412.github.io/Uniqlo2/"
+              linklive="https://sleepy-scrubland-64819.herokuapp.com/home"
               Features=" Log-In/Sign-Up, Add to Cart and filter functionality "
             />
           </Col>

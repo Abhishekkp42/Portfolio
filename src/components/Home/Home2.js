@@ -9,7 +9,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import { FaLinkedinIn } from "react-icons/fa";
 import TransitionsModal from "../Modal/ContactModal.jsx";
-import avatarImg from "../../Assets/Shubham.jpg";
+import avatarImg from "../../Assets/Abhishek.jpg";
 function Home2() {
   useEffect(() => {
     Aos.init({ duration: 1200 });
@@ -51,7 +51,7 @@ function Home2() {
               data-aos="fade-up"
               style={{ color: "white" }}
             >
-              I am an IT grad by degree.
+              I am an EE grad by degree.
               <br />
               <br />I have proficient knowledge in
               <i>
@@ -99,7 +99,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="mailto:shubham35godda@gmail.com?subject=subject"
+                  href="mailto:abhikp2905@gmail.com?subject=subject"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -107,11 +107,11 @@ function Home2() {
                   <SiGmail />
                 </a>
                 <br /> <br />
-                <div> shubham35godda@gmail.com</div>
+                <div> abhikp2905@gmail.com</div>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/shubhamkr0412"
+                  href="https://github.com/Abhishekkp42"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -119,12 +119,12 @@ function Home2() {
                   <AiFillGithub />
                 </a>
                 <br /> <br />
-                <div>https://github.com/shubhamkr0412</div>
+                <div>https://github.com/Abhishekkp42</div>
               </li>
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/shubham-kumar04/"
+                  href="https://www.linkedin.com/in/abhishek-singh-057b781a6/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -132,18 +132,18 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
                 <br /> <br />
-                <div>linkedin.com/in/shubham-kumar04</div>
+                <div>linkedin.com/in/abhishek-singh-057b781a6/</div>
               </li>
             </ul>
             <h3>
               Contact No:
               <p
-                href="tel:+7979906053"
+                href="tel:+9932021917"
                 style={{
                   color: "purple",
                 }}
               >
-                +91 7979906053
+                +91 9932021917
               </p>
             </h3>
             <br /> <br />

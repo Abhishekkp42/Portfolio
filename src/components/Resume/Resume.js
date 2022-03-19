@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/shubham.pdf";
+import pdf from "../../Assets/Abhishek Singh.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -50,34 +50,34 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Training</h3>
             <Resumecontent
-              title="Python Industrial Training"
-              date="June 2020"
+              title="MATLAB Industrial Training"
+              date="June 2018"
               content={[
-                "Attended a training session at Haldia Institute of technology on Python.",
+                "Attended a training session at Haldia Institute of technology on MATLAB.",
               ]}
             />
-            <h3 className="resume-title">Voluntary Experience</h3>
+            {/* <h3 className="resume-title">Voluntary Experience</h3>
             <Resumecontent
               title="Jigayasa"
               content={[
                 "Jigyasa is a NGO that provides free education to poor childrens in Haldia city. ",
               ]}
-            />
+            /> */}
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title=" B.Tech Information Technology [ Haldia Institute of Technology      (MAKAUT),    West Bengal ] "
+              title=" B.Tech Electrical Engineering [ Haldia Institute of Technology      (MAKAUT),    West Bengal ] "
               date="2015 - 2019"
-              content={["CGPA: 6.5"]}
+              content={["CGPA: 7.1"]}
             />
             <Resumecontent
-              title="12TH BOARD [ S.D.M.Y college (B.S.E.B), Dhoraiya, Bihar. ]"
-              date="2013 - 2015"
-              content={["Percentage: 57.4%"]}
+              title="12TH BOARD [ Indian School of Learning, Dhanbad, Jharkhand. ]"
+              date="2014"
+              content={["Percentage: 76.2%"]}
             />
             <Resumecontent
-              title="10TH BOARD [ Saint Thomas School (I.C.S.E), Godda, Jharkhand ] "
+              title="10TH BOARD [ DeNobili School, Dhanbad, Jharkhand ] "
               date="2012"
               content={["Precentage: 75.6%"]}
             />
