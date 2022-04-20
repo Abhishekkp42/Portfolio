@@ -41,7 +41,7 @@ function Resume() {
           style={{ justifyContent: "center", position: "relative" }}
           data-aos="fade-up"
         >
-          <Button variant="primary" href="https://drive.google.com/file/d/1TOFs-bS0ru9GBvPMMU5HWqr0MAXrd39D/view?usp=sharing" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1rWzUEuswDumqY9-gDAiDKpK8CmFA8IGN/view?usp=sharing" target="_blank">
             <AiOutlineDownload />
             &nbsp;Download Resume
           </Button>
@@ -97,7 +97,7 @@ function Resume() {
           style={{ justifyContent: "center", position: "relative" }}
           data-aos="fade-right"
         >
-          <Button variant="primary" href="https://drive.google.com/file/d/1TOFs-bS0ru9GBvPMMU5HWqr0MAXrd39D/view?usp=sharing" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1rWzUEuswDumqY9-gDAiDKpK8CmFA8IGN/view?usp=sharing" target="_blank">
             <AiOutlineDownload />
             &nbsp;Download Resume
           </Button>

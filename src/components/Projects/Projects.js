@@ -28,14 +28,14 @@ function Projects() {
             <ProjectCard
               imgPath={kettoimg}
               isBlog={false}
-              title="Plumgoodness Clone "
-              description="We have created a clone of e-commerce website Plumgoodness. And we have implemented all the functionality and features similar to real website."
-              link="https://github.com/Abhishekkp42/E-commerce-Plumgoodness"
-              tech=" HTML, CSS, JavaScript"
+              title="Book My Show Clone "
+              description="We have created a clone of online ticket booking website Book My Show. And we have implemented all the functionality and features similar to real website."
+              link="https://github.com/Abhishekkp42/bookmyshow-clone"
+              tech=" HTML, CSS, JavaScript, React, Redux, MongoDb, Nodejs"
               duration=" 1 Week"
-              Features="Sign-In/Sign-Up, Details of Products, SearchBar for Navigation"
+              Features="Sign-In/Sign-Up, Details of Movies and other Shows, SearchBar for Navigation"
               // linkmedium="https://avinashrexx.hashnode.dev/cloning-of-agoda-website"
-              linklive="https://plumgoodness-clone-rohit-2021.netlify.app/"
+              linklive="https://bookmyshow-clone-eight.vercel.app/"
             />
           </Col>
 
