@@ -41,7 +41,7 @@ function Resume() {
           style={{ justifyContent: "center", position: "relative" }}
           data-aos="fade-up"
         >
-          <Button variant="primary" href="https://drive.google.com/file/d/1rWzUEuswDumqY9-gDAiDKpK8CmFA8IGN/view?usp=sharing" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1tseTlCZ6vKAHCBrSradvfFgJrgM6lKvf/view?usp=sharing" target="_blank">
             <AiOutlineDownload />
             &nbsp;Download Resume
           </Button>
@@ -56,13 +56,6 @@ function Resume() {
                 "Attended a training session at Haldia Institute of technology on MATLAB.",
               ]}
             />
-            {/* <h3 className="resume-title">Voluntary Experience</h3>
-            <Resumecontent
-              title="Jigayasa"
-              content={[
-                "Jigyasa is a NGO that provides free education to poor childrens in Haldia city. ",
-              ]}
-            /> */}
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
